@@ -1,4 +1,4 @@
-![AKHTAPUS — Autonomous Engineering Intelligence](https://raw.githubusercontent.com/ASHTYRA/.github/main/assets/akhtapus-banner.png)
+![AKHTAPUS — Autonomous Engineering Intelligence](https://raw.githubusercontent.com/akhtapos/.github/refs/heads/main/assets/akhtapus-banner.png)
 
 # AKHTAPUS
 
